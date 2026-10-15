@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "sphinx-astropy",
+  "versions": [
+    {
+      "commit": "638ede78f0417f024e355ac559e751d07423a138",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:32:18.530468+00:00"
+    }
+  ]
+}
